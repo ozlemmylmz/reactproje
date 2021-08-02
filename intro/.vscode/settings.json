@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "Northwind",
+        "alertify",
+        "alertifyjs",
+        "consectetur",
+        "constructer",
+        "navi",
+        "typicode"
+    ],
+    "deno.enable": true,
+    "deno.lint": true,
+    "deno.unstable": true
+}
